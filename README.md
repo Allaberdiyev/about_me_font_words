@@ -1,16 +1,8 @@
-# uy_ishi_font_words
+![image](https://github.com/Allaberdiyev/about_me_font_words/assets/149064535/9b714a5f-3e43-4a31-8b17-f686b041c083)
 
-A new Flutter project.
+![image](https://github.com/Allaberdiyev/about_me_font_words/assets/149064535/58acdd16-c54c-46ed-ae72-b7f931190db4)
 
-## Getting Started
+![image](https://github.com/Allaberdiyev/about_me_font_words/assets/149064535/9132d04a-a98b-4e7e-92d1-6d11fc35f0ea)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Allaberdiyev/about_me_font_words/assets/149064535/c5466194-8171-4fd7-a1c3-16c9741e1675)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
